@@ -1,0 +1,4 @@
+CatBot\appsettings.json
+CatBot/appsettings.json
+*.sln
+.vs/*
